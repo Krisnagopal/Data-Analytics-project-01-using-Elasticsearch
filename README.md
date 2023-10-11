@@ -1,4 +1,4 @@
-# Data-Analytics-project-01-using-Elasticsearch
+
 <h1>Data Analytics based Optimization Project using Elasticsearch and GurobiPy </h1>
 
 <h2>Description</h2>
