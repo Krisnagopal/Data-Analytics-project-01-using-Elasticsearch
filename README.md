@@ -1,5 +1,5 @@
 
-<h1>Data Analytics based Optimization Project using Elasticsearch and GurobiPy </h1>
+<h1>Data Analytics based Optimization using Elasticsearch and GurobiPy </h1>
 
 <h2>Description</h2>
 This project is based on a case inspired from real-life, the dataset and the problem situation were provided by BELSIMPEL (A telecom company in the Netherlands). The product assortment of Belsimpel is rapidly expanding. As a result, their warehouse has become a bottleneck for their operations. Belsimpel does not intend to relocate the warehouse in the short-term. Therefore, it appears that the only way forward is to store a limited collection of products at the current warehouse and move the rest to a rental warehouse elsewhere. The advantage of the current warehouse is its efficiency. Thanks to the well-established organization of warehouse operations developed over the years and the availability of personnel with the right skills and experience, Belsimpel is able to offer nextday deliveries to its customers for any product that is stored at their current warehouse. It might not be possible to provide the  same  service quality for those products stored at a rental  warehouse—where deliveries may take several days, and, it is expected that this will have a significant impact on the sales. 
