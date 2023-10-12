@@ -24,36 +24,36 @@ response  to  delivery  times  as  well  as the  organization  of  the operation
 
 <p align="center">
 Importing all necessary Libraries and ingesting the big dataset into Elasticsearch: <br/>
-<img src="https://i.imgur.com/dUvnCpk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dUvnCpk.png" height="80%" width="80%" alt="Optimization using Elasticsearch and GurobiPy"/>
 <br />
 <br />
 Importing data after aggreagtion via json and storing final transformed data into a final dataframe:  <br/>
-<img src="https://i.imgur.com/7fFMmFA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/HobLI7u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7fFMmFA.png" height="80%" width="80%" alt="Optimization using Elasticsearch and GurobiPy"/>
+<img src="https://i.imgur.com/HobLI7u.png" height="80%" width="80%" alt="Optimization using Elasticsearch and GurobiPy"/>
 <br />
 <br />
 Categorizing products based on profit margins and plotting histograms: <br/>
-<img src="https://i.imgur.com/8D5gm2Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8D5gm2Q.png" height="80%" width="80%" alt="Optimization using Elasticsearch and GurobiPy"/>
 <br />
 <br />
 Calculation of base-stock & number of boxes required and plotting correlation plot:  <br/>
-<img src="https://i.imgur.com/QcJlumo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QcJlumo.png" height="80%" width="80%" alt="Optimization using Elasticsearch and GurobiPy"/>
 <br />
 <br />
 Identifying unique product couples based on correlation:  <br/>
-<img src="https://i.imgur.com/CcmLu2v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CcmLu2v.png" height="80%" width="80%" alt="Optimization using Elasticsearch and GurobiPy"/>
 <br />
 <br />
 Generating the final product list and allocating the products based on first method:  <br/>
-<img src="https://i.imgur.com/bVXsmrF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bVXsmrF.png" height="80%" width="80%" alt="Optimization using Elasticsearch and GurobiPy"/>
 <br />
 <br />
 Generating the final product list again and allocating the products based on second method:  <br/>
-<img src="https://i.imgur.com/Kg73BUZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Kg73BUZ.png" height="80%" width="80%" alt="Optimization using Elasticsearch and GurobiPy"/>
 <br />
 <br />
  Allocating the products based on third method (Optimization - Knapsack problem):  <br/>
-<img src="https://i.imgur.com/27wYPJi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/27wYPJi.png" height="80%" width="80%" alt="Optimization using Elasticsearch and GurobiPy"/>
 <br />
 
 </p>
