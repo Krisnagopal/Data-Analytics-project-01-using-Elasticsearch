@@ -22,7 +22,7 @@ response  to  delivery  times  as  well  as the  organization  of  the operation
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+<p align="left">
 Importing all necessary Libraries and ingesting the big dataset into Elasticsearch: <br/>
 <img src="https://i.imgur.com/dUvnCpk.png" height="80%" width="80%" alt="Optimization using Elasticsearch and GurobiPy"/>
 <br />
